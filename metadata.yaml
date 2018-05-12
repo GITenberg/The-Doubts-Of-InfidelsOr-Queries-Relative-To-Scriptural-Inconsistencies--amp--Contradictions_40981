@@ -1,0 +1,28 @@
+_repo: The-Doubts-Of-InfidelsOr-Queries-Relative-To-Scriptural-Inconsistencies--amp--Contradictions_40981
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicholson, William
+    birthdate: 1753
+    deathdate: 1815
+    gutenberg_agent_id: '41346'
+    url: http://www.gutenberg.org/2009/agents/41346
+description: ''
+gutenberg_issued: '2012-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcsh 'Christianity -- Controversial literature'
+- !lcc 'BL'
+title: "The Doubts of Infidels\r\nOr, Queries Relative to Scriptural Inconsistencies\
+  \ & Contradictions"
+url: http://www.gutenberg.org/ebooks/40981
